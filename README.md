@@ -1,16 +1,16 @@
 # FET-robotic-arm
-## Project Overview
+### Project Overview
 A robotic arm that autonomously picks and places magnetic word blocks to rearrange “FACULTY OF ENGINEERING &amp; TECHNOLOGY” and “SUNWAY UNIVERSITY” on a multi-level platform.
 
-## Concept
+### Concept
 
-## Features
+### Features
 
-## Flow
+### Flow
 
-## Mechanical Design
+### Mechanical Design
 
-## Electrical Wiring
+### Electrical Wiring
 
 ## Software
 
