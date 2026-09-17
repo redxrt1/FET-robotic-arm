@@ -12,9 +12,9 @@ A robotic arm that autonomously picks and places magnetic word blocks to rearran
 
 ### Electrical Wiring
 
-## Software
+### Software
 
-## Documentation
+### Documentation
 Detailed documentation will be organized into the following sections:
 - Mechanical Design
 - Electrical System
