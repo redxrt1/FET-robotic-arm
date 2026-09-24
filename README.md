@@ -4,21 +4,31 @@ A robotic arm that autonomously picks and places magnetic word blocks to rearran
 
 ### Concept
 
+
 ### Features
 
+
 ### Flow
+1. x
+2. y
+3. z
+
 
 ### Mechanical Design
 
+
 ### Electrical Wiring
+
 
 ### Software
 
+
 ### Tools / Software used
 - OnShape etc
+
 
 ### Documentation
 Detailed documentation will be organized into the following sections:
 - Mechanical Design
 - Electrical System
-- Software & Control
+- Software
